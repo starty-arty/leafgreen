@@ -16,7 +16,7 @@ We plan to collect all the available data on all candidates and put it on a bloc
 
 ### Viability of blockchain
 - Addition and deletion are rare so computationally not very expensive
-- ßSince all data is text based the total size is rather small.
+- Since all data is text based the total size is rather small.
 
 ## Utilities
 - **Properly organised platform for voters to choose**
