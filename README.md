@@ -1,4 +1,4 @@
-# leafgreen
+# Candidate Profiling Platform
 ## Abstract
 The problem we face today is that the candidates' data is scattered among multiple platforms and is not available in a composed and user-friendly manner. We plan on making a  platform which contains verified information about each candidate in a well-organised and easy-to-compare manner.
 
